@@ -28,9 +28,12 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-vuex-mongoose/master/src/assets/vuestacks-post1.JPG)
+![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-vuex-mongoose/master/src/assets/vuestacks-post2.JPG)
+
 ### Overview
 
-The VueStacks post manager demo utilizes general Vue.js, Vue-Router, Vuex, and Firebase CRUD functions to create, update, and delete posts. 
+The VueStacks post manager demo utilizes general Vue.js, Vue-Router, Vuex, and Firebase CRUD functions to create, update, and delete posts.
 
 ### Addition Dependencies
 
