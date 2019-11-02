@@ -1,33 +1,5 @@
 # vuestacks-post-vue-vuex-firebase
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
 ![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-post-vue-vuex-firebase/master/src/assets/vuestacks-post1.JPG)
 
 ![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-post-vue-vuex-firebase/master/src/assets/vuestacks-post2.JPG)
@@ -58,3 +30,33 @@ const app = initializeApp({
 export const db = firebase.firestore();
 ```
 Enjoy the demo! Submit an issue if you see anything that could be improved!
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
