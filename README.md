@@ -29,6 +29,7 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-post-vue-vuex-firebase/master/src/assets/vuestacks-post1.JPG)
+
 ![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-post-vue-vuex-firebase/master/src/assets/vuestacks-post2.JPG)
 
 ### Overview
