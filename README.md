@@ -1,4 +1,4 @@
-# vue-mevn-post
+# vuestacks-post-vue-vuex-firebase
 
 ## Project setup
 ```
